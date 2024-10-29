@@ -1,5 +1,3 @@
-Here's the full `README.md` with your GitHub repository link:
-
 
 # Node.js User Management API
 
