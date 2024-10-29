@@ -1,3 +1,5 @@
+Here's the full `README.md` with your GitHub repository link:
+
 
 # Node.js User Management API
 
@@ -12,12 +14,12 @@ A simple Node.js API for user management including functionalities for login, si
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/maliknomi0/UserManagementAPI.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd UserManagementAPI
    ```
 
 3. Install dependencies:
@@ -177,6 +179,7 @@ curl -X POST http://localhost:3001/api/upload -H "Authorization: Bearer YOUR_TOK
 ```
 
 ---
+https://github.com/user-attachments/assets/44bed05c-9942-41e6-9b27-01a7f1a29129
 
 ## Contact
 
@@ -186,10 +189,9 @@ Feel free to reach out with any questions, suggestions, or feedback.
 - **LinkedIn**: [linkedin.com/in/maliknomi0](https://linkedin.com/in/maliknomi0)
 - **WhatsApp**: +92 370 0204207
 
----
 
-## License
 
-This project is licensed under the MIT License.
-```
+
+
+
 
