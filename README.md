@@ -1,6 +1,4 @@
-Here's the full `README.md` with the "Contact" section included:
 
-```markdown
 # Node.js User Management API
 
 A simple Node.js API for user management including functionalities for login, signup, editing profile, changing password, and uploading images.
